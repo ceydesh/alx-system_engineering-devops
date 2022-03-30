@@ -1,2 +1,1 @@
- #!/bin/bash
-alx-system_engineering
+#!/bin/bash alx-system_engineering
